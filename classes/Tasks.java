@@ -20,7 +20,7 @@ public class Tasks extends JPanel {
     // Construtor
     Tasks() {
         this.setPreferredSize(new Dimension(50, 30));
-        this.setBackground(Color.BLACK);
+        this.setBackground(Color.CYAN);
 
         this.setLayout(new BorderLayout());
 
